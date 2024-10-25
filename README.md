@@ -1,5 +1,4 @@
 ### UNONGMILK💻
-Kotlin을 이용한 마인크래프트 플러그인 만드는걸 좋아하는 한 유저
+Kotlin, Minecraft, Intuitive
 
-- 마크경력 : 7년 ( 2017년부터 )
-- 코딩경력 : 5년 ( 2019년부터 )
+`Intuitive code is must better than optimized code.`
